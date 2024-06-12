@@ -1,6 +1,6 @@
 # Robot Kinematics
 ## 2R Robot  
-![](assets/twoR.png)
+<img src="./assets/twoR.png" width="70%">
 
 ## DH-Parameters
 ||&alpha; <sub>i-1</sub> | a <sub>i-1</sub> | d <sub>i</sub> | &Theta; <sub>i</sub> |
